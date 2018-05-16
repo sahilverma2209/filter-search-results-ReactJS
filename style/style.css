@@ -1,0 +1,79 @@
+.main{
+    border:1px solid #E7E7E7;
+    width:50%;
+    margin-left:25%;
+    margin-top:20px;
+    border-radius:5px;
+    box-shadow: 2px 2px 8px  #E0E0E0;
+   
+}
+
+.repolist-item{
+    padding: 10px;
+    border-bottom: 1px solid #E0DDDD;
+    font-size:15px;
+    padding-left:20px;
+    color:#575757;
+}
+
+.form-input{
+    width:50%;
+    height:30px;
+    border-radius:5px;
+    border: 1px solid #E0DDDD;
+    color:#575757;
+    font-size:12px;
+    padding-left:10px;
+}
+
+.form-input::-webkit-input-placeholder{
+    padding:0px;
+    font-size:12px;
+    color: #CACACA;
+}
+.form-input2{
+    width:71%;
+    height:30px;
+    border-radius:5px;
+    border: 1px solid #E0DDDD;
+    color:#575757;
+    font-size:12px;
+    padding-left:10px;
+}
+.form-input2::-webkit-input-placeholder{
+    padding:0px;
+    font-size:12px;
+    color: #CACACA;
+}
+
+.button{
+    height:30px;
+    width:20%;
+    font-size:11px;
+    margin-left:10px;
+    background-color: #80C980;
+    border: 1px solid #80C980;
+    border-radius:5px;
+    color:white;
+}
+
+.button2{
+    height:30px;
+    width:20%;
+    font-size:11px;
+    margin-left:5px;
+    background-color: #CFCFCF;
+    border: 1px solid #CFCFCF;
+    border-radius:5px;
+}
+
+.src-forms{
+    background-color: #F8F8F8;
+}
+
+.repo_list_placeholder{
+    margin-left:15px;
+    color:#666464;
+    padding:10px;
+    font-family: 'Gill Sans';
+}
