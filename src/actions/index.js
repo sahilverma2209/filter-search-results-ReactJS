@@ -49,15 +49,12 @@ export function filterRepo(term, arr) { //arr has global state object than repol
         type: FILTER_REPO,
         payload: newarr
     };
-    
-    
 }
 
 
 export const CLEAR_REPO = 'CLEAR_REPO';
 
 export function clearRepo() {
-    
     return {
         type: CLEAR_REPO,
         payload: []

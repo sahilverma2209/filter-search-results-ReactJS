@@ -16,6 +16,23 @@
     color:#575757;
 }
 
+.repolist-item:hover{
+    padding: 10px;
+    border-bottom: 1px solid #E0DDDD;
+    font-size:15px;
+    padding-left:20px;
+    color:#464646;
+    background-color:#D8D7D7;
+    cursor: pointer;
+}
+
+.repo-item-link{
+    color:#575757;
+    font-size:15px;
+    text-decoration: none; 
+}
+
+
 .form-input{
     width:50%;
     height:30px;
@@ -71,9 +88,16 @@
     background-color: #F8F8F8;
 }
 
-.repo_list_placeholder{
+.repo_list_placeholderN{
     margin-left:15px;
-    color:#666464;
+    color:#FF6161;
+    padding:10px;
+    font-family: 'Gill Sans';
+}
+
+.repo_list_placeholderS{
+    margin-left:15px;
+    color:#858585;
     padding:10px;
     font-family: 'Gill Sans';
 }
