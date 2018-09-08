@@ -6,7 +6,7 @@ There are two methods for getting started with this repo.
 
 #### Familiar with Git?
 ```
-> git clone https://github.com/sahilverma2209/yelp-fusion-api-event-search.git
+> git clone https://github.com/sahilverma2209/filter-search-results-ReactJS.git
 > cd ReduxSimpleStarter
 > npm install
 > npm start
